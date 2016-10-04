@@ -18,6 +18,7 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index');
+<<<<<<< HEAD
 
 Auth::routes();
 
@@ -26,3 +27,5 @@ Route::get('/home', 'HomeController@index');
 Auth::routes();
 
 Route::get('/home', 'HomeController@index');
+=======
+>>>>>>> 3275643f39e66cd3df140d1b46c622e60b67b83d

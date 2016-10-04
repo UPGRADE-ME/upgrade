@@ -1,6 +1,9 @@
 # Laravel PHP Framework
 #
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3275643f39e66cd3df140d1b46c622e60b67b83d
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
 [![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
 [![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)

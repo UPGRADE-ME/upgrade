@@ -18,6 +18,9 @@ Vue.component('example', require('./components/Example.vue'));
 const app = new Vue({
     el: 'body'
 });
+<<<<<<< HEAD
 
 var num = 10;
 num++;
+=======
+>>>>>>> 3275643f39e66cd3df140d1b46c622e60b67b83d
