@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<<<<<<< HEAD
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -118,4 +117,3 @@
     
   </body>
 </html>
->>>>>>> 3275643f39e66cd3df140d1b46c622e60b67b83d
